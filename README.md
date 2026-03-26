@@ -1,4 +1,5 @@
 # Iris
+🔗 **Live Demo:** https://iris-predictor-1.streamlit.app/
 
 This is a small Iris classifier demo with three parts:
 
